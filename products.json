@@ -1,0 +1,42 @@
+[
+    {
+        "name": "accent chair",
+        "price": "25",
+        "company": "ikeja",
+        "featured": "false",
+        "rating": "4"
+    },
+    {
+        "name": "golden table",
+        "price": "455",
+        "company": "ogba",
+        "featured": "false",
+        "rating": "2"
+    },
+    {
+        "name": "celestial mega chair",
+        "price": "25",
+        "company": "marve",
+        "featured": "false",
+        "rating": "5"
+    },
+    {
+        "name": "accent bicycle",
+        "price": "250",
+        "company": "allen",
+        "featured": "false",
+        "rating": "1"
+    },
+    {
+        "name": "silver bicycle",
+        "price": "25",
+        "featured": "true",
+        "company": "ogba"
+    },
+    {
+        "name": "silver bag",
+        "price": "50",
+        "featured": "false",
+        "company": "marve"
+    }
+]
